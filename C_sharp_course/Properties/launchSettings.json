@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "C_sharp_course": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\\\Users\\\\nyura\\\\source\\\\repos\\\\C_sharp_course\\\\C_sharp_course\\\\Laba6.txt\""
+    }
+  }
+}
